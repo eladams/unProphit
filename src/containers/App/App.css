@@ -1,0 +1,16 @@
+.App-header {
+	background-color: #222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 80px;
+	padding: 20px;
+	color: white;
+}
+
+.App-intro {
+	padding: 16px 0 6px 0;
+	text-align: center;
+	font-size: large;
+	font-variant: small-caps;
+}
