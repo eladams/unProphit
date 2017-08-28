@@ -1,4 +1,4 @@
-## unPROPHIT
+## unPROPHIT 💸 
 
 ### How to install?
 - git clone git@github.com:eladams/unProphit.git --depth=1
